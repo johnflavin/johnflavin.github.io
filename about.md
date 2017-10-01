@@ -8,6 +8,6 @@ John Flavin is a computer programmer living in St. Louis, MO. He is hard at work
 
 John has a PhD in physics from Washington University in St. Louis, and BS degrees in physics and mathematics from the University of Missouri – Columbia.
 
-John is an avid cyclist. He rides his bike to work every day. He and his wife completed a Century Ride (100 miles in one day) on October 10, 2010. Yes, this was a 10*10 mile ride on 10-10-10.
+When he has a spare moment, John spends it playing with his son or learning about game programming in Unreal Engine 4. He has also GMed sessions of tabletop role-playing games like [Dungeon World](http://dungeon-world.com/) and [Fiasco](http://bullypulpitgames.com/games/fiasco/). He used to listen to a lot of podcasts, but cut it down to a small core: [The Adventure Zone](http://theadventurezone.tumblr.com/), [Friends at the Table](http://www.friendsatthetable.net/), and [Coffee with Butterscotch](http://podcast.bscotch.net).
 
-When he has a spare moment, John spends it playing with his son or learning about game programming in Unreal Engine 4.
+John is an avid cyclist. He rides his bike to work every day. He and his wife completed a Century Ride (100 miles in one day) on October 10, 2010. Yes, this was a 10*10 mile ride on 10-10-10.
