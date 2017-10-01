@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+John Flavin is a computer programmer living in St. Louis, MO. He is hard at work on the [Container Service](https://github.com/nrgxnat/container-service) for [XNAT](https://xnat.org). The Container Service lets XNAT users perform custom processing and analysis on their images by launching commands in [Docker](https://www.docker.com/) containers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+John has a PhD in physics from Washington University in St. Louis, and BS degrees in physics and mathematics from the University of Missouri – Columbia.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+John is an avid cyclist. He rides his bike to work every day. He and his wife completed a Century Ride (100 miles in one day) on October 10, 2010. Yes, this was a 10*10 mile ride on 10-10-10.
 
-
-[jekyll-organization]: https://github.com/jekyll
+When he has a spare moment, John spends it playing with his son or learning about game programming in Unreal Engine 4.
