@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Game projects
-I don't have any game projects to post yet, but I will be doing so soon.
+I am currently working on my first prototype in Unity. I don't have any completed projects to post yet, but I will be doing so soon.
 
 ## Unreal Engine 4 Tutorial
 
