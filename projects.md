@@ -11,6 +11,20 @@ The container service is a plugin for the [XNAT](http://xnat.org) imaging web ap
 
 This was a multi-year project for me, during which time I wrote almost the entire back end myself. I continue to expand and fix the container service with regular releases, as well as create new docker images to integrate into the service.
 
+## Data Science
+
+### Applied Data Science with Python Specialization
+
+[Coursera site](https://www.coursera.org/specializations/data-science-python)
+
+This is a set of courses on Coursera that I will complete. I do not intend to gain the certification, but I will be working through all the assignments and posting them to a repo on github ([johnflavin/coursera-data-science-python](https://github.com/johnflavin/coursera-data-science-python)).
+
+- [ ] Intro to Data Science in Python
+- [ ] Applied Plotting, Charting & Data Representation in Python
+- [ ] Applied Machine Learning in Python
+- [ ] Applied Text Mining in Python
+- [ ] Applied Social Network Analysis in Python
+
 ## Game projects
 
 ### _morseCodeMaster
