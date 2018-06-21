@@ -19,9 +19,9 @@ This was a multi-year project for me, during which time I wrote almost the entir
 
 This is a set of courses on Coursera that I will complete. I do not intend to gain the certification, but I will be working through all the assignments and posting them to a repo on github ([johnflavin/coursera-data-science-python](https://github.com/johnflavin/coursera-data-science-python)).
 
-- [x] Intro to Data Science in Python
-- [x] Applied Plotting, Charting & Data Representation in Python
-- [ ] Applied Machine Learning in Python
+- [x] Intro to Data Science in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/01-intro-to-data-science-in-python))
+- [x] Applied Plotting, Charting & Data Representation in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/02-applied-plotting-charting-and-data-representation-in-python))
+- [ ] Applied Machine Learning in Python (In progress)
 - [ ] Applied Text Mining in Python
 - [ ] Applied Social Network Analysis in Python
 
