@@ -13,9 +13,10 @@ permalink: /publications/
 
 ### Talks
 
-* **Integrative Imaging Informatics for Cancer Research (I3CR)** - Informatics Technologies for Cancer Research (ITCR) Meeting (2017)
-* **Panel discussion** - Quantitative Imaging Network (QIN) Meeting (2017)
-* [Practical sessions: **Introduction to Computing with Docker** and **XNAT Container Service**](https://wiki.xnat.org/display/XW2/Practical+Session+3%3A+Computing) - XNAT Workshop (2016)
-* [**XNAT Computing and Docker**](https://wiki.xnat.org/display/XW2/6.+XNAT+Computing+and+Docker) - XNAT Workshop (2016)
+* [**Using the Container Service in XNAT**](https://wiki.xnat.org/workshop-2017/) - XNAT Workshop, Rotterdam, Netherlands (October 2017)
+* **Integrative Imaging Informatics for Cancer Research (I3CR)** - Informatics Technologies for Cancer Research (ITCR) Meeting (June 2017)
+* **Panel discussion** - Quantitative Imaging Network (QIN) Meeting (April 2017)
+* [Practical sessions: **Introduction to Computing with Docker** and **XNAT Container Service**](https://wiki.xnat.org/display/XW2/Practical+Session+3%3A+Computing) - XNAT Workshop (June 2016)
+* [**XNAT Computing and Docker**](https://wiki.xnat.org/display/XW2/6.+XNAT+Computing+and+Docker) - XNAT Workshop (June 2016)
 * [**Braiding statistics of the Gaffnian through the coherent state representation**](http://meetings.aps.org/Meeting/MAR12/Event/164163) - American Physical Society (APS) March Meeting (2012)
 * [**Fibonacci anyons through the 1D coherent state representation**](http://meetings.aps.org/Meeting/MAR10/Event/121962) - American Physical Society (APS) March Meeting (2010)
