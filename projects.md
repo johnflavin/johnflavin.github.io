@@ -22,8 +22,8 @@ This is a set of courses on Coursera that I will complete. I do not intend to ga
 - [x] Intro to Data Science in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/01-intro-to-data-science-in-python))
 - [x] Applied Plotting, Charting & Data Representation in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/02-applied-plotting-charting-and-data-representation-in-python))
 - [x] Applied Machine Learning in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/03-applied-machine-learning-in-python))
-- [ ] Applied Text Mining in Python (In progress)
-- [ ] Applied Social Network Analysis in Python
+- [X] Applied Text Mining in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/04-applied-text-mining-in-python))
+- [ ] Applied Social Network Analysis in Python (In progress) (([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/05-applied-social-network-analysis-in-python)))
 
 ## Game projects
 
