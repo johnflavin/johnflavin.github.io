@@ -13,6 +13,10 @@ This was a multi-year project for me, during which time I wrote almost the entir
 
 ## Data Science
 
+### Kaggle
+
+I have completed my first "kernel" on [Kaggle](http://kaggle.com). It is an exploration of the classic beginner example Titanic data set, [My Take on the Beginner Titanic Kernel](https://www.kaggle.com/flavin/my-take-on-the-beginner-titanic-kernel).
+
 ### Applied Data Science with Python Specialization
 
 [Coursera site](https://www.coursera.org/specializations/data-science-python)
