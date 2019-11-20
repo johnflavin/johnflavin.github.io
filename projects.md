@@ -4,12 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
+## Current Projects
+
+These days (as of November 2019) I work almost exclusively in python, writing scripts and packages. They are not publicly available, so I cannot link to them. But here are some tools I have been working with:
+
+* Lots of S3 interactions, using a package I developed to wrap [`boto3`](https://github.com/boto/boto3).
+* Pretty much every script and every package I write uses either [`pandas`](https://pandas.pydata.org) or  [`geopandas`](https://geopandas.readthedocs.io/en/latest/), i.e. `pandas` + the geospatial stack of [`shapely`](https://shapely.readthedocs.io/en/latest/), [`fiona`](https://fiona.readthedocs.io/en/latest/), and [`gdal`](https://gdal.org).
+* I still use and love [`requests`](https://3.python-requests.org). I recently found an opportunity to create a [Custom Auth](https://3.python-requests.org/user/advanced/#custom-authentication) class, and it works like an absolute dream.
+
 ## Container Service
 [Source repo](https://github.com/nrgxnat/container-service)
 
-The container service is a plugin for the [XNAT](http://xnat.org) imaging web application. It integrates a docker application into XNAT, providing new XNAT APIs to launch containers on docker.
+The container service is a plugin for the [XNAT](http://xnat.org) imaging web application, written in Java 7. It integrates a docker application into XNAT, providing new XNAT APIs to launch containers on docker.
 
-This was a multi-year project for me, during which time I wrote almost the entire back end myself. I continue to expand and fix the container service with regular releases, as well as create new docker images to integrate into the service.
+This was a multi-year project, during which time I wrote almost the entire back end myself.
 
 ## Data Science
 
@@ -27,7 +35,6 @@ This is a set of courses on Coursera that I will complete. I do not intend to ga
 - [x] Applied Plotting, Charting & Data Representation in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/02-applied-plotting-charting-and-data-representation-in-python))
 - [x] Applied Machine Learning in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/03-applied-machine-learning-in-python))
 - [X] Applied Text Mining in Python ([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/04-applied-text-mining-in-python))
-- [ ] Applied Social Network Analysis in Python (In progress) (([Assignments](https://github.com/johnflavin/coursera-data-science-python/tree/master/05-applied-social-network-analysis-in-python)))
 
 ## Game projects
 
