@@ -1,0 +1,57 @@
+johnflavin
+==================================================================
+https://keybase.io/johnflavin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johnflavin.github.io
+  * I am johnflavin (https://keybase.io/johnflavin) on keybase.
+  * I have a public key ASDcfVVKQ8zT75RK-T1X53iX95_bvAvN__1Iapmllg8Cnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dc7d554a43ccd3ef944af93d57e77897f79fdbbc0bcdfffd486a99a5960f029f0a",
+      "host": "keybase.io",
+      "kid": "0120dc7d554a43ccd3ef944af93d57e77897f79fdbbc0bcdfffd486a99a5960f029f0a",
+      "uid": "756d027e558b922666f5f1b6e502c819",
+      "username": "johnflavin"
+    },
+    "merkle_root": {
+      "ctime": 1635707030,
+      "hash": "31992da3262d6b4444d4d21d1f681912f7786fcc37035a00d71935d0ad34cf0c7d54854344ba9255befd3c222747e4f8c9e27a053d400e8df0fe6079bd5af864",
+      "hash_meta": "468324a5f723a75b318050e6365fabdf57ff41b889c64f46280602ffcf75b477",
+      "seqno": 21104217
+    },
+    "service": {
+      "entropy": "+eWomEtHoOEQayWgflP3xH7p",
+      "hostname": "johnflavin.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1635707086,
+  "expire_in": 504576000,
+  "prev": "9c6061dd31ffab0c1979f2ed8ffea5adcd29cfd2c6457cebef200fee1651fc4e",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3H1VSkPM0++USvk9V+d4l/ef27wLzf/9SGqZpZYPAp8Kp3BheWxvYWTESpcCCcQgnGBh3TH/qwwZefLtj/6lrc0pz9LGRXzr7yAP7hZR/E7EIFzteOsIEBXbTGjCv1ugYMbgcpC6lkwCgwHoWElHAKW5AgHCo3NpZ8RAUA1xgo3UWcxNBxtGfG1D9cPZs5pu5/3Aos2IWNwMxtcEYsVv38AGdqvkdXMeSzpA/h3Euf8/lFNw72BnQTIIAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICFXTM76REQHaSuxxsV4uTxx1kpeH5frzG5N7wv41MC2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnflavin
+
+==================================================================
